@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/narnolpratham/Healthcare_Analytics_Project/blob/main/05_Healthcare_Analytics_Dashboard.png"
+  width="900">
+</p>
+
 Healthcare Readmission & Revenue Analysis
 By Pratham Narnol | Data Analyst
 1. The Problem Statement
